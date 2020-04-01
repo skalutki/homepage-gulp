@@ -71,6 +71,9 @@ body {
     }
     &__link {
         @include linkDecoration;
+        &:hover {
+            color: red;
+        }
     }
     &__list {
         align-items: center;
@@ -132,7 +135,7 @@ body {
     @include linkDecoration;
 }
 
-.heder {
+.header {
     &__title {
         padding-top: 60px;
     }

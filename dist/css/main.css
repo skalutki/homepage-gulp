@@ -319,7 +319,6 @@ html {
 
 body {
   background: #91af0b;
-  background: -webkit-linear-gradient(45deg, rgba(145, 175, 11, 0.842174) 55%, #00d4ff 100%);
   background: -o-linear-gradient(45deg, rgba(145, 175, 11, 0.842174) 55%, #00d4ff 100%);
   background: linear-gradient(45deg, rgba(145, 175, 11, 0.842174) 55%, #00d4ff 100%); }
 
@@ -377,6 +376,8 @@ body {
 .navigation__link {
   color: #7A8450;
   text-decoration: none; }
+  .navigation__link:hover {
+    color: red; }
 
 .navigation__list {
   -webkit-box-align: center;
@@ -446,10 +447,10 @@ body {
   color: #7A8450;
   text-decoration: none; }
 
-.heder__title {
+.header__title {
   padding-top: 60px; }
 
-.heder__side {
+.header__side {
   padding-top: 20px; }
 
 .article__footer {

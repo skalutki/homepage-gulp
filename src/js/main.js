@@ -59,3 +59,23 @@ navigationButton.addEventListener('click', (e) => {
         //Powyzej - dodanie do przycisku X akcji po klikniecie zdjecie widocznosci nawigacji oraz zamiana widocznosci ikony na hamburger menu
     });
 });
+
+
+
+let n = 3
+while (n < 9) {
+    console.log(n);
+    n = n + 3;
+}
+console.log(n);
+
+
+const person = {
+    name: 'karol',
+    age: 31
+}
+
+for (let propertyName in person) {
+    console.log(`${propertyName}: ${person[propertyName]}`);
+
+}

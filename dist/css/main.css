@@ -318,9 +318,8 @@ html {
           box-sizing: inherit; }
 
 body {
-  background: #91af0b;
-  background: -o-linear-gradient(45deg, rgba(145, 175, 11, 0.842174) 55%, #00d4ff 100%);
-  background: linear-gradient(45deg, rgba(145, 175, 11, 0.842174) 55%, #00d4ff 100%); }
+  background-color: #000;
+  color: gray; }
 
 .main {
   max-width: 800px;

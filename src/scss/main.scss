@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 @import "_normalize";
 @import "_variables";
 html {
@@ -13,6 +14,7 @@ html {
 body {
     background-color: $violet;
     color: gray;
+    font-family: 'Lato';
 }
 
 .main {

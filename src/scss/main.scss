@@ -11,7 +11,8 @@ html {
 }
 
 body {
-    @include bacgroundColor;
+    background-color: $violet;
+    color: gray;
 }
 
 .main {

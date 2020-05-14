@@ -6,7 +6,7 @@
 My first personal webside with starter kit built during WTF - Co Ten Frontend course. [https://cotenfrontend.pl/](https://cotenfrontend.pl/)🔥🔥
 
 
-# I encourage you to visit my website [Demo](https://skalutki.github.io/) 
+# I encourage you to visit my website [Demo](https://skalutki.github.io/homepage-gulp/) 
 
 
 ## Tool & technologies I've used:
